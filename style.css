@@ -72,12 +72,6 @@
   width: 1px;
   height: 33px;
 }
-.nsdc-logo {
-  position: relative;
-  width: 77px;
-  height: 35px;
-  object-fit: cover;
-}
 .nav-bar {
   display: flex;
 }
@@ -342,6 +336,7 @@ img {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 
 #secondline {
   color: var(--BLACK, #2b2f34);
