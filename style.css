@@ -216,7 +216,7 @@ p {
   gap: 10px;
   border-radius: 8px;
   background: #fafafa;
-  color: var(--BLACK, #2b2f34);
+  color: #2b2f34;
   font-family: ABeeZee;
   font-size: 16px;
   font-style: normal;
@@ -225,7 +225,7 @@ p {
   margin-top: 10px;
 }
 .hero-form-frame-section2-button {
-  color: var(--WHITE, #fff);
+  color: #fff;
   font-family: "ABeeZee", sans-serif;
   font-size: 18px;
   font-style: italic;
